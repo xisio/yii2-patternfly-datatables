@@ -1,0 +1,28 @@
+{
+	"name": "xisio/yii2-patternfly-datatable",
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Denis Warsow",
+			"email": "stdedjub@googlemail.com"
+		}
+	],
+	"require": {
+		"npm-asset/patternfly": "^3.59",
+		"xisio/yii2-bootstrap-asset ":"^3.41",
+		"xisio/yii2-datatables ":"^3.41"
+
+	},
+	"autolaod":{
+		"psr-4" : {
+			"xisio\\patternfly\\datatables\\" : "src"
+		}
+	},
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://asset-packagist.org"
+		}
+	]
+}
