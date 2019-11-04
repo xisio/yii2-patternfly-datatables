@@ -11,8 +11,8 @@
 	],
 	"require": {
 		"npm-asset/patternfly": "^3.59",
-		"xisio/yii2-bootstrap-asset":"^3.41",
-		"xisio/yii2-datatables":"^3.41"
+		"xisio/yii2-bootstrap-asset":"^3.4.1",
+		"xisio/yii2-datatables":"^1.10"
 
 	},
 	"autoload":{
