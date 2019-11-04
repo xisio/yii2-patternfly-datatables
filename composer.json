@@ -1,5 +1,5 @@
 {
-	"name": "xisio/yii2-patternfly-datatables",
+	"name": "xisio/yii2-patternfly-datatable",
 	"type": "yii2-extension",
 	"license": "MIT",
 	"description" : "yii2-patternfly-datatable",
